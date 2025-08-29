@@ -1,0 +1,9 @@
+streamlit
+deepface
+PIL
+cv2
+matplotlib.pyplot
+matplotlib.patches
+sklearn
+requests
+numpy
